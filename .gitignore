@@ -1,0 +1,8 @@
+.env
+backend/code/.env
+backend/code/vendor
+centrifugo/config.json
+database/*
+.DS_Store
+.idea
+pgadmin-data
